@@ -62,9 +62,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1409" height="1599" alt="image" src="https://github.com/user-attachments/assets/4f4712e2-a2da-4a63-bf86-7e7c1aea30cf" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
@@ -115,9 +114,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/db700f96-c864-4172-addd-6f3838278478" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -166,9 +163,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1160" height="1374" alt="image" src="https://github.com/user-attachments/assets/71636da9-c343-47a0-bd18-7095976c49e7" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
@@ -215,9 +211,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1350" height="1600" alt="image" src="https://github.com/user-attachments/assets/bf1eaab9-c851-4168-8ba0-c67c42fc5777" />
 
----
 ## OUTPUT FROM MASM SOFTWARE
 
 <img width="515" height="343" alt="image" src="https://github.com/user-attachments/assets/2d00df9e-ef3b-41c7-8704-4916c8041ebb" />
